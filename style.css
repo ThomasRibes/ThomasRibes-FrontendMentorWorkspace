@@ -70,11 +70,10 @@ img{
     margin-top: 20px;
 }
 .location{
-    color: #cdeb69;
+    color: #d1f069;
     font-family: interSemiBold;
     font-size: 14px;
     height: 30px;
-    padding-bottom: 10px;
 }
 
 .description{
@@ -82,7 +81,7 @@ img{
     color : #d8d8d8;
     font-size: 14px;
     height: 30px;
-    margin-top: 10px;
+    padding-top: 10px;
 }
 
 .picture, .location, .name, .description{
