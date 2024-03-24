@@ -51,7 +51,7 @@ body {
 img{
     border-radius: 50%;
     height: auto;
-    width: 80px;
+    width: 100px;
     align-self: center;
 }
 
@@ -66,17 +66,23 @@ img{
     font-family: interRegular;
     color: white;
     font-size: 24px;
+    height: 30px;
+    margin-top: 20px;
 }
 .location{
     color: #cdeb69;
     font-family: interSemiBold;
     font-size: 14px;
+    height: 30px;
+    padding-bottom: 10px;
 }
 
 .description{
     font-family: interRegular;
     color : #d8d8d8;
     font-size: 14px;
+    height: 30px;
+    margin-top: 10px;
 }
 
 .picture, .location, .name, .description{
