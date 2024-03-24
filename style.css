@@ -50,8 +50,9 @@ body {
 
 img{
     border-radius: 50%;
-    height: 80px;
-    width: auto;
+    height: auto;
+    width: 80px;
+    align-self: center;
 }
 
 .info{
@@ -62,7 +63,7 @@ img{
 }
 
 .name{
-    font-family: interBold;
+    font-family: interRegular;
     color: white;
     font-size: 24px;
 }
